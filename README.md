@@ -14,3 +14,5 @@ https://carbon.now.sh/ -->
 ---
 
 ![YiFei's GitHub stats](https://github-readme-stats.vercel.app/api?username=yifeili98&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide=javascript,html,typescript,css,glsl)](https://github.com/yifeili98)
